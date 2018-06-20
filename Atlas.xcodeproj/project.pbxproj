@@ -119,7 +119,6 @@
 		3DA2FB871F1E9DF500E890FA /* ATLPresenceStatusView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DA2FB301F1E9DF500E890FA /* ATLPresenceStatusView.m */; };
 		3DA2FB881F1E9DF500E890FA /* ATLProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 3DA2FB311F1E9DF500E890FA /* ATLProgressView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3DA2FB891F1E9DF500E890FA /* ATLProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DA2FB321F1E9DF500E890FA /* ATLProgressView.m */; };
-		3DA2FB8C1F1EA03400E890FA /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3DA2FB8B1F1EA03400E890FA /* Info.plist */; };
 		40EBBF671E9D4C2300C25041 /* ATLAvatarViewTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 40EBBF651E9D4C1B00C25041 /* ATLAvatarViewTest.m */; };
 		40EBBF681E9D4C2400C25041 /* ATLAvatarViewTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 40EBBF651E9D4C1B00C25041 /* ATLAvatarViewTest.m */; };
 		58239E45B91E3CD954E75554 /* Pods_test_ProgrammaticTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8050D6CFBC2EA1D5D6B800A /* Pods_test_ProgrammaticTests.framework */; };
@@ -1157,7 +1156,6 @@
 				3DA2FAC41F1E9DAE00E890FA /* block@2x.png in Resources */,
 				3DA2FAC51F1E9DAE00E890FA /* block@3x.png in Resources */,
 				3DA2FAC31F1E9DAE00E890FA /* block.png in Resources */,
-				3DA2FB8C1F1EA03400E890FA /* Info.plist in Resources */,
 				3DA2FACB1F1E9DAE00E890FA /* chevron@3x.png in Resources */,
 				3DA2FAC91F1E9DAE00E890FA /* chevron.png in Resources */,
 				3DA2FAC81F1E9DAE00E890FA /* camera_dark@3x.png in Resources */,
